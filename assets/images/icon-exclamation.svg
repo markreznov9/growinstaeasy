@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="icon_exclamation" data-name="icon exclamation" transform="translate(-666 -694)">
+    <path id="Path_13" data-name="Path 13" d="M37.5,0A37.5,37.5,0,1,1,0,37.5,37.5,37.5,0,0,1,37.5,0Z" transform="translate(666 694)" fill="rgba(255,255,255,0.3)"/>
+    <path id="exclamation-circle-solid" d="M65.5,36.75A28.75,28.75,0,1,1,36.75,8,28.748,28.748,0,0,1,65.5,36.75Zm-28.75,5.8a5.333,5.333,0,1,0,5.333,5.333A5.333,5.333,0,0,0,36.75,42.546ZM31.687,23.378l.86,15.766a1.391,1.391,0,0,0,1.389,1.315h5.628a1.391,1.391,0,0,0,1.389-1.315l.86-15.766a1.391,1.391,0,0,0-1.389-1.467H33.076a1.391,1.391,0,0,0-1.389,1.467Z" transform="translate(667 695)" fill="#fff"/>
+  </g>
+</svg>
